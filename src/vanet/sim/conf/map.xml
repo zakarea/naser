@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+<!--  mixZone >> true = 1, false = 0   -->
+<node id = "C1" name="c1" mixZone= "1"/>
+<node id = "C2" name="c2" mixZone= "0"/>
+<node id = "C3" name="c3" mixZone= "0"/>
+<node id = "C4" name="c4" mixZone= "0"/>
+<node id = "C5" name="c5" mixZone= "0"/>
+<node id = "C6" name="c6" mixZone= "0"/>
+<node id = "C7" name="c7" mixZone= "0"/>
+<node id = "C8" name="c8" mixZone= "1"/>
+<node id = "C9" name="c9" mixZone= "0"/>
+<node id = "C10" name="c10" mixZone= "0"/>
+<node id = "C11" name="c11" mixZone= "0"/>
+<node id = "C12" name="c12" mixZone= "0"/>
+<node id = "C13" name="c13" mixZone= "0"/>
+<node id = "C14" name="c14" mixZone= "0"/>
+<node id = "C15" name="c15" mixZone= "0"/>
+<node id = "C16" name="c16" mixZone= "0"/>
+<node id = "C17" name="c17" mixZone= "0"/>
+<node id = "C18" name="c18" mixZone= "1"/>
+<node id = "C19" name="c19" mixZone= "0"/>
+<node id = "C20" name="c20" mixZone= "0"/>
+<node id = "C21" name="c21" mixZone= "0"/>
+<node id = "C22" name="c22" mixZone= "0"/>
+<node id = "C23" name="c23" mixZone= "0"/>
+<node id = "C24" name="c24" mixZone= "0"/>
+<node id = "C25" name="c25" mixZone= "0"/>
+<node id = "C26" name="c26" mixZone= "0"/>
+<node id = "C27" name="c27" mixZone= "0"/>
+<node id = "C28" name="c28" mixZone= "0"/>
+<node id = "C29" name="c29" mixZone= "0"/>
+<node id = "C30" name="c30" mixZone= "0"/>
+<node id = "C31" name="c31" mixZone= "0"/>
+<node id = "C32" name="c32" mixZone= "0"/>
+<node id = "C33" name="c33" mixZone= "1"/>
+<node id = "C34" name="c34" mixZone= "0"/>
+<node id = "C35" name="c35" mixZone= "0"/>
+<node id = "C36" name="c36" mixZone= "0"/>
+<node id = "C37" name="c37" mixZone= "0"/>
+<node id = "C38" name="c38" mixZone= "0"/>
+<node id = "C39" name="c39" mixZone= "0"/>
+<node id = "C40" name="c40" mixZone= "0"/>
+<node id = "C41" name="c41" mixZone= "1"/>
+<node id = "C42" name="c42" mixZone= "0"/>
+<node id = "C43" name="c43" mixZone= "0"/>
+<node id = "C44" name="c44" mixZone= "0"/>
+<node id = "C45" name="c45" mixZone= "0"/>
+<node id = "C46" name="c46" mixZone= "0"/>
+<node id = "C47" name="c47" mixZone= "0"/>
+<node id = "C48" name="c48" mixZone= "0"/>
+<node id = "C49" name="c49" mixZone= "0"/>
+<node id = "C50" name="c50" mixZone= "0"/>
+
+
+<edge id = "E1" source="C1" target="C2" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E2" source="C2" target="C3" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E3" source="C3" target="C4" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E4" source="C4" target="C5" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E5" source="C1" target="C6" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E6" source="C2" target="C7" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E7" source="C3" target="C8" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E8" source="C4" target="C9" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E9" source="C5" target="C10" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E10" source="C6" target="C7" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E11" source="C7" target="C8" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E12" source="C8" target="C9" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E13" source="C9" target="C10" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E14" source="C6" target="C11" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E15" source="C7" target="C12" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E16" source="C8" target="C13" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E17" source="C9" target="C14" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E18" source="C10" target="C15" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E19" source="C11" target="C12" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E20" source="C12" target="C13" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E21" source="C13" target="C14" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E22" source="C14" target="C15" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E23" source="C11" target="C16" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E24" source="C12" target="C17" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E25" source="C13" target="C18" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E26" source="C14" target="C19" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E27" source="C15" target="C20" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E28" source="C16" target="C17" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E29" source="C17" target="C18" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E30" source="C18" target="C19" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E31" source="C19" target="C20" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E32" source="C16" target="C21" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E33" source="C17" target="C22" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E34" source="C18" target="C23" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E35" source="C19" target="C24" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E36" source="C20" target="C25" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E37" source="C21" target="C22" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E38" source="C22" target="C23" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E39" source="C23" target="C24" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E40" source="C24" target="C25" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E41" source="C21" target="C26" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E42" source="C22" target="C27" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E43" source="C23" target="C28" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E44" source="C24" target="C29" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E45" source="C25" target="C30" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E46" source="C26" target="C27" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E47" source="C27" target="C28" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E48" source="C28" target="C29" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E49" source="C29" target="C30" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E50" source="C26" target="C31" distance="3.0" maxSpeed="1.0"/>
+<edge id = "E51" source="C27" target="C32" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E52" source="C28" target="C33" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E53" source="C29" target="C34" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E54" source="C30" target="C35" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E55" source="C31" target="C32" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E56" source="C32" target="C33" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E57" source="C33" target="C34" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E58" source="C34" target="C35" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E59" source="C31" target="C36" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E60" source="C32" target="C37" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E61" source="C33" target="C38" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E62" source="C34" target="C39" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E63" source="C35" target="C40" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E64" source="C36" target="C37" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E65" source="C37" target="C38" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E66" source="C38" target="C39" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E67" source="C39" target="C40" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E68" source="C36" target="C41" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E69" source="C37" target="C42" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E70" source="C38" target="C43" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E71" source="C39" target="C44" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E72" source="C40" target="C45" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E73" source="C41" target="C42" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E74" source="C42" target="C43" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E75" source="C43" target="C44" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E76" source="C44" target="C45" distance="2.0" maxSpeed="1.5"/>
+
+
+
+<edge id = "E77" source="C2" target="C1" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E78" source="C3" target="C2" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E79" source="C4" target="C3" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E80" source="C5" target="C4" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E81" source="C6" target="C1" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E82" source="C7" target="C2" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E83" source="C8" target="C3" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E84" source="C9" target="C4" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E85" source="C10" target="C5" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E86" source="C7" target="C6" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E87" source="C8" target="C7" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E88" source="C9" target="C8" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E89" source="C10" target="C9" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E90" source="C11" target="C6" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E91" source="C12" target="C7" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E92" source="C13" target="C8" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E93" source="C14" target="C9" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E94" source="C15" target="C10" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E95" source="C12" target="C11" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E96" source="C13" target="C12" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E97" source="C14" target="C13" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E98" source="C15" target="C14" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E99" source="C16" target="C11" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E100" source="C17" target="C12" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E101" source="C18" target="C13" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E102" source="C19" target="C14" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E103" source="C20" target="C15" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E104" source="C17" target="C16" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E105" source="C18" target="C17" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E106" source="C19" target="C18" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E107" source="C20" target="C19" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E108" source="C21" target="C16" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E109" source="C22" target="C17" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E110" source="C23" target="C18" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E111" source="C24" target="C19" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E112" source="C25" target="C20" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E113" source="C22" target="C21" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E114" source="C23" target="C22" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E115" source="C24" target="C23" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E116" source="C25" target="C24" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E117" source="C26" target="C21" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E118" source="C27" target="C22" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E119" source="C28" target="C23" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E120" source="C29" target="C24" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E121" source="C30" target="C25" distance="3.0" maxSpeed="1.5"/>
+<edge id = "E122" source="C27" target="C26" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E123" source="C28" target="C27" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E124" source="C29" target="C28" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E125" source="C30" target="C29" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E126" source="C31" target="C26" distance="3.0" maxSpeed="1.0"/>
+<edge id = "E127" source="C32" target="C27" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E128" source="C33" target="C28" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E129" source="C34" target="C29" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E130" source="C35" target="C30" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E131" source="C32" target="C31" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E132" source="C33" target="C32" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E133" source="C34" target="C33" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E134" source="C35" target="C34" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E135" source="C36" target="C31" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E136" source="C37" target="C32" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E137" source="C38" target="C33" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E138" source="C39" target="C34" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E139" source="C40" target="C35" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E140" source="C37" target="C36" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E141" source="C38" target="C37" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E142" source="C39" target="C38" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E143" source="C40" target="C39" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E144" source="C41" target="C36" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E145" source="C42" target="C37" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E146" source="C43" target="C38" distance="1.0" maxSpeed="1.0"/>
+<edge id = "E147" source="C44" target="C39" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E148" source="C45" target="C40" distance="1.0" maxSpeed="1.5"/>
+<edge id = "E149" source="C42" target="C41" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E150" source="C43" target="C42" distance="2.0" maxSpeed="1.5"/>
+<edge id = "E151" source="C44" target="C43" distance="2.0" maxSpeed="1.0"/>
+<edge id = "E152" source="C45" target="C44" distance="2.0" maxSpeed="1.5"/>
+
+
+
+</map>

@@ -1,0 +1,18 @@
+car[1] n1(1), n4(1), n7(2), n9(2), n11(2)
+car[2] n2(10), n3(10), n7(20), n13(20)
+
+
+check >> if( [car1,car2] met mixZone && at same time)
+suppose >> you know the cars before enter mix zone
+solution:
+S1: Short term (between current mix zone and previous one + next move until next mix zone)
+1. possible cars >> [car1,car2]
+	possibilities [c1(2) & c2(20) || c1(20) & c2(2)] 
+2. fetch cars history
+3. for each next step >> compute shortest path for each cars{
+	compute shortest path based on possibilities[0]
+	compute shortest path based on possibilities[1]
+	check validity
+}
+
+S2: long term (between current mix zone and previous one + next move until destination or found solution)
