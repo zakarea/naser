@@ -1,7 +1,7 @@
 # vanet.autonom.privacy
 
 
-# Command line instructions
+## Command line instructions
 
 Git global setup
 git config --global user.name "USER_NAME
